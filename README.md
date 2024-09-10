@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm TR RUPOM</h1>
+<h1 align="center">
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=truepause=1000&color=3DF79EFF&background=FF040F00&&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+TR+Rupom!;" />
+</h1>
+    
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trrupom&label=Profile%20views&color=0e75b6&style=flat" alt="trrupom" /> </p>
