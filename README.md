@@ -44,7 +44,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/trrupom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="trrupom" /></a><a href="https://ko-fi.com/trrupom"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="trrupom" /></a></p><br><br>
-
+Support 🙏
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -59,6 +59,3 @@
 <hr/>
 
 <br/>
-
-
-Support 🙏
