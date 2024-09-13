@@ -6,9 +6,9 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trrupom&label=Profile%20views&color=0e75b6&style=flat" alt="trrupom" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tr_rupom" target="blank"><img src="https://img.shields.io/twitter/follow/tr_rupom?logo=twitter&style=for-the-badge" alt="tr_rupom" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/trrupom/trrupom/blob/main/hacking.gif">
+<p align="left"> <a href="https://twitter.com/tr_rupom" target="blank"><img src="https://img.shields.io/twitter/follow/tr_rupom?logo=twitter&style=for-the-badge" alt="tr_rupom" /></a> </p>
+
 - 🌱 I’m currently learning **Web Development,WordPress Development**
 
 - 📝 I regularly write articles on [Loading](Loading)
