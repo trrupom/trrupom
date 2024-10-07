@@ -1,5 +1,5 @@
 <h1 align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=truepause=1000&color=3DF79EFF&background=FF040F00&&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+TR+Rupom!;" />
 </h1>   
