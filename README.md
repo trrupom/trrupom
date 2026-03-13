@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **C++,HTML,CSS,Javascript**
 
-- 📫 How to reach me **trrupom@duck.com**
+- 📫 How to reach me **info@trrupom.pro.bd**
 
 - 📄 Know about my experiences [Loading](Loading)
 
